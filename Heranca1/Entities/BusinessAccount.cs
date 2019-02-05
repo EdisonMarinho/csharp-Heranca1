@@ -1,4 +1,4 @@
-﻿namespace Course.Entities
+﻿namespace Heranca1.Entities
 {
     class BusinessAccount : Account
     {

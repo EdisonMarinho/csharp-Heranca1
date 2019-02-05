@@ -1,5 +1,5 @@
 using System;
-using Course.Entities;
+using Heranca1.Entities;
 
 namespace Course
 {
